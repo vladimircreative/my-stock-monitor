@@ -1,0 +1,41 @@
+.card {
+    margin: .25em;
+    border: .2em solid rgb(66, 66, 66);
+    border-radius: 10px;
+    width: 7em;
+    height: 7em;
+    font-size: 1.5vh;
+    line-height: 1vh;
+    text-align: center;
+    transition-duration: .2s;
+    background-color: rgb(224, 242, 241);
+}
+
+.card div {
+    color: rgb(66, 66, 66);
+    margin: .7em 0em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 3px 3px 5px rgb(117, 117, 117);
+    background-color: white;
+}
+
+.title {
+    font-size: 1.4em;
+}
+
+.price {
+    font-size: 1.75em;
+    font-weight: bolder;
+}
+
+.rate {
+    vertical-align: text-top;
+}

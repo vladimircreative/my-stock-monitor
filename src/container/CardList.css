@@ -1,0 +1,9 @@
+.cardList {
+    /* border: 2px solid red; */
+    margin: 0 0 5vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}

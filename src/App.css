@@ -1,0 +1,12 @@
+.App {
+    margin-top: 1vw;
+    margin-bottom: auto;
+    color: rgb( 234, 242, 248 ); 
+}
+
+p {
+    font-size: 4vh;
+    text-align: center;
+    margin: 0vh;
+    padding: 0vh;   
+}

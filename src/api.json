@@ -1,0 +1,7 @@
+{
+	"API" : [
+		"https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/.json?sort_column=numtrades&sort_order=desc&first=12",
+		"https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/.json?sort_column=LASTTOPREVPRICE&sort_order=desc&first=12",
+		"https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities/.json?sort_column=LASTTOPREVPRICE&first=12"
+	]	
+}
